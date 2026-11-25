@@ -2,3 +2,4 @@ wmi>=1.5.1
 pywin32>=306
 requests>=2.31
 python-telegram-bot>=21.0
+cryptography>=42.0
